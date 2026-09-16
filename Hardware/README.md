@@ -1,1 +1,1 @@
-# Labkit Hardware
+# Lab Kit Hardware
