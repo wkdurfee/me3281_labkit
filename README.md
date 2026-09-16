@@ -1,1 +1,1 @@
-# ME3281 Labkit
+# ME3281 Lab Kit
