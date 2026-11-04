@@ -16,10 +16,10 @@ The User Guide walks you through installing the software, setting up the hardwar
 
 | Folder | What's in it |
 |---|---|
-| [Software](Software) | The lab kit application for Windows and Mac, the Python source file, and past versions |
+| [Software](Software) | The lab kit application software that you run on your laptop |
 | [Hardware](Hardware) | What's in the kit and how the hardware works |
 | [Videos](Videos) | Video tutorials |
-| [Board_Software](Board_Software) | The Arduino code that runs on the board (for TAs; students don't need this) |
+| [Board_Software](Board_Software) | The Arduino code that runs on the board (for the curious student) |
 
 Click a folder name to open it. Each folder has a description that appears below its list of files.
 
