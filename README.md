@@ -4,7 +4,7 @@
 
 The ME 3281 Lab Kit lets you explore motor control systems at home, on your own schedule. The kit consists of a small hardware unit (a DC motor driving an inertia wheel) and an application you run on your laptop to set PID gains, run step responses, and save the results.
 
-This site has everything you need to use the kit: the software to download, a description of the hardware, video tutorials, and other resources. Homework assignments are not posted here. Get those from your course.
+This site has everything you need to use the kit: the software to download, a description of the hardware, video tutorials, and other resources. Homework assignments are not posted here. Get those from your course instructor.
 
 ## Start here: the User Guide
 
