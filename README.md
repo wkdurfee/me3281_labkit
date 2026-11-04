@@ -10,7 +10,7 @@ This site has everything you need to use the kit: the software to download, a de
 
 ### **[ME 3281 Lab Kit User Guide](https://docs.google.com/document/d/1oedQPF3KCfcU4NCRRZGlrVdvtryyQlVAax1uANhdr_o/preview)**
 
-The User Guide walks you through installing the software, setting up the hardware, using the application, and troubleshooting. Read it before you start.
+The User Guide walks you through installing the software, setting up the hardware, using the application, and troubleshooting. Read it before you start to use your lab kit.
 
 ## What's on this site
 
