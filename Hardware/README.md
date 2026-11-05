@@ -1,7 +1,5 @@
 # Lab Kit Hardware
 
-![The ME 3281 Lab Kit: annotated image of the board](hardware_board.png)
-
 ## What's in the kit
 
 1. Board with motor and microcontroller
@@ -12,6 +10,8 @@
 For setup steps, see "Setting Up the Hardware" in the [User Guide](https://docs.google.com/document/d/1oedQPF3KCfcU4NCRRZGlrVdvtryyQlVAax1uANhdr_o/preview).
 
 ## How the hardware works
+
+![The ME 3281 Lab Kit: annotated image of the board](hardware_board.png)
 
 The board holds a small DC gearmotor that drives the inertia wheel. An encoder on the motor measures the wheel's position (1400 counts per revolution, about 0.26° per count). A Seeed Studio XIAO SAMD21 microcontroller reads the encoder and drives the motor through a motor driver chip.
 
