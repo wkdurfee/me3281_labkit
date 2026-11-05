@@ -20,7 +20,7 @@ When you click **STEP!** in the application, the application sends your PID gain
 | Item | Details |
 |---|---|
 | Microcontroller | Seeed Studio XIAO SAMD21 |
-| Motor | N20 6V, 1:50, 300 rpm DC gearmotor with 7 cpr encoder |
+| Motor | 6V, 1:50, 300 rpm N20 DC gearmotor with 7 cpr encoder |
 | Motor driver | DRV8837 |
 | Encoder | 1400 counts per inertia wheel revolution |
 | Control loop rate | 100 Hz (every 10 ms) |
