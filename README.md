@@ -18,7 +18,7 @@ The User Guide walks you through installing the software, setting up the hardwar
 |---|---|
 | [Software](Software) | The lab kit application software that runs on your laptop |
 | [Hardware](Hardware) | What's in the kit and how the hardware works |
-| [Videos](Videos) | Video tutorials |
+| [Videos](Videos) | Video tutorials (coming soon) |
 | [Board_Software](Board_Software) | The Arduino code that runs on the board (for the curious student) |
 
 Click a folder name to open it. Each folder has a description that appears below its list of files.
