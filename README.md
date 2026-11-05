@@ -1,4 +1,4 @@
-![The ME 3281 Lab Kit: the hardware board with motor and inertia wheel (left) and the lab kit application showing a step response (right)](labkit_overview.png)
+![The ME 3281 Lab Kit: annotated image of the board](hardware_board.png)
 
 # ME 3281 Lab Kit
 
