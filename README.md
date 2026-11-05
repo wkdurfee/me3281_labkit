@@ -1,4 +1,4 @@
-![The ME 3281 Lab Kit: annotated image of the board](hardware_board.png)
+![The ME 3281 Lab Kit: (left) board, (right) GUI](labkit_overview.png)
 
 # ME 3281 Lab Kit
 
