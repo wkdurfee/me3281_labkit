@@ -1,6 +1,6 @@
 # Lab Kit Hardware
 
-![The lab kit board with motor and inertia wheel](../labkit_overview.png)
+![The ME 3281 Lab Kit: annotated image of the board](hardware_board.png)
 
 ## What's in the kit
 
